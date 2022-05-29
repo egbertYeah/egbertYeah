@@ -1,11 +1,13 @@
-## Yoo, I'm yeah
-------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B6B4F7&lines=%E5%BC%80%E5%BF%83%E5%BF%AB%E4%B9%90%E6%AF%8F%E4%B8%80%E5%A4%A9)](https://git.io/typing-svg)   
+## Yoo, I'm yeah  👋
+Get busy living.
+- Computer Vision Worker;
+- familiar with object detection, semantic segmentation and keypoint detection;
+- Now,studying with model deployment and optimization 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=egbertYeah&show_icons=true&theme=dark&count_private=true)         
+## Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egbertYeah&theme=vue)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=egbertYeah&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egbertYeah&theme=dark&layout=compact)
-
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <!--
 **egbertYeah/egbertYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
