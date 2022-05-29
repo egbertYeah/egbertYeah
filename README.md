@@ -1,5 +1,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=egbertYeah&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egbertYeah&theme=dark&layout=compact)
+
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
 <!--
 **egbertYeah/egbertYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
